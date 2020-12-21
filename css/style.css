@@ -31,7 +31,7 @@
 .image-2{
 	float:left;
 }
-.box1{
+.box1{display:inline-block;
 	width:630px;
     padding:15px;
 	float:left;
@@ -40,7 +40,7 @@
 	margin-left:80px;
 	margin-top:50px;
 }
-.box2 {
+.box2 {display:inline-block;
 	width:521px;
 	padding:15px;
 	float:right;
@@ -49,7 +49,7 @@
 	margin-right: 80px;
 	margin-top:50px;
 }
-}
+
 }
 .color-bg{
 	background-color:black;
